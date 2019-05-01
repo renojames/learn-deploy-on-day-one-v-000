@@ -1,6 +1,11 @@
 /* GLOBAL STYLES
 ======================== */
 
+/* IMGUR LINKS
+PROFILE PIC https://imgur.com/duYzjSQ
+BANNER: https://imgur.com/AUO5ixX
+*/
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -139,6 +144,14 @@ a:visited {
 
 #joe-burgess-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
+}
+
+#reno-sorensen-card {
+ background-image: url("https://imgur.com/duYzjSQ");
+}
+
+#reno-sorensen-cover {
+ background-image: url("https://imgur.com/AUO5ixX");
 }
 
 #avi-flombaum-card {
